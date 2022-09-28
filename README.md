@@ -1,4 +1,5 @@
 # Real-Time-Bus-Tracker
+<img src="bus tracker.PNG" width='300'/>
 This project was effective in showing a real life example of how code is used on a daily basis. It showed a real life problem, of knowing which bus stops a bus will be at, and helps display where it will go next.
 
 In order to run this, you will need to get an API key. They are personal and shouldn't be shared, so to run this code, you will have to go to https://openweathermap.org/ and create an account. You will need to answer some questions. If it asks for your company, you can leave it blank, and when it asks for what your intent of using this information, you can put "Education/Science".
